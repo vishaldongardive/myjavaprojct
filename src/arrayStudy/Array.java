@@ -10,7 +10,7 @@ public class Array {
 		
 		//2.Array initialize
 		
-		city[0]="latur";
+		city[0]="beed";
 		city[1]="prabhani";
 		city[2]="hingoli";
 		city[3]="jalana";

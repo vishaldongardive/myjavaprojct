@@ -7,7 +7,7 @@ public class ChangeOrderOFAstring {
 		String ar[]=name.split(" ");
 		for (int i=0;i<=ar.length-1;i++)
 		{
-			if(i%2!=0)
+			if(i%2==0)
 			{
 				String s=ar[i];
 				ar[i]=revString(s);
